@@ -3,4 +3,5 @@
 ## 1.) I love runing
 ## 2.) I do crazy stunts
 ## 3.) I am the real king
-things i love | things i hate
+First Header | Second Header
+------------ | -------------
