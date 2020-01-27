@@ -5,3 +5,4 @@
 ## 3.) I am the real king
 Things i like | Thins i hate
 ------------ | -------------
+I love pizza  | I hate chesses pizza
